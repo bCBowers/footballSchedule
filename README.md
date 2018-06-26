@@ -2,6 +2,9 @@ This project was performed for a class during my MS program in Data Analytics En
 
 File Descriptions:
 HW8a.py -> code for this project
+
 GameVariables_2018.csv, NETWORK_SLOT_WEEK_2018.csv, and TEAM_DATA_2018.csv -> input files provided by the professor
+
 NFL Schedule Assignment.pptx -> written description of the assignment provided by the professor
+
 NFL_DB.db -> SQLite database containing inputs and solution
