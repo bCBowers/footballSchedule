@@ -1,3 +1,0 @@
-# footballSchedule
-
-# This repository describes
