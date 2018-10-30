@@ -1,11 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar  9 01:22:34 2018
-
-
-@author: Colin
-"""
 
 import csv, sqlite3
 from gurobipy import *
